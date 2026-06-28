@@ -1,4 +1,5 @@
-﻿# ==================================================
+﻿#EXTM3U
+# ==================================================
 # Lista do Vicente
 # ==================================================
 
@@ -7,7 +8,7 @@
 # Grupo: Canais Esportivos
 # ==================================================
 #EXTGRP: Canais Esportivos
-#EXTINF:-1 group-title="Canais Esportivos" tvg-logo="https://i.imgur.com/bwqLqyg.png" tvg-id="simpleTVFakeEpgId",SporTV HD teste de teste
+#EXTINF:-1 group-title="Canais Esportivos" tvg-logo="https://i.imgur.com/bwqLqyg.png" tvg-id="simpleTVFakeEpgId",SporTV HD
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 #EXTINF:-1 group-title="Canais Esportivos" tvg-logo="https://i.imgur.com/bwqLqyg.png" tvg-id="simpleTVFakeEpgId",SporTV HD2
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
