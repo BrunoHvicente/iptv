@@ -723,7 +723,7 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" tvg-id="simpleTVFakeEpgId",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
-#EXTINF:-1 group-title="Canais | VARIEDADES"" tvg-logo="https://i.imgur.com/llEiDMh.png" tvg-id="simpleTVFakeEpgId",Pluto TV História
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/llEiDMh.png" tvg-id="simpleTVFakeEpgId",Pluto TV História
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-id="simpleTVFakeEpgId",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
@@ -804,7 +804,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/O9bIhIR.png" tvg-id="simpleTVFakeEpgId",PLUTO TV NOVELAS
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 group-title=""Canais | NOVELAS" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" tvg-id="simpleTVFakeEpgId",Globoplay Novelas (1080p)
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" tvg-id="simpleTVFakeEpgId",Globoplay Novelas (1080p)
 http://143.14.178.40:7777/Globoplay_Novelas_HD/index.m3u8
 
 
@@ -969,6 +969,8 @@ https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 group-title="Canais | Musicais" tvg-logo="https://i.imgur.com/3JOVuei.png" tvg-id="simpleTVFakeEpgId",Pluto TV KaraokÃª por Stingray
 https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:-1 group-title="Canais | Musicais" tvg-logo="https://i.imgur.com/TJHk6Va.png" tvg-id="simpleTVFakeEpgId",SolTV (720p)
+https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 group-title="Canais | Musicais" tvg-logo="https://i.imgur.com/Ub1Zwoy.png" tvg-id="simpleTVFakeEpgId",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 group-title="Canais | Musicais" tvg-logo="https://i.imgur.com/2SVQ28Q.png" tvg-id="simpleTVFakeEpgId",MTV Dating
@@ -1559,8 +1561,6 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/mHxQyB2.png" tvg-id="simpleTVFakeEpgId",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TJHk6Va.png" tvg-id="simpleTVFakeEpgId",SolTV (720p)
-https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-id="simpleTVFakeEpgId",Sony Channel (720p)
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/rsfnv4Z.png" tvg-id="simpleTVFakeEpgId",TV Aldeia (720p)
